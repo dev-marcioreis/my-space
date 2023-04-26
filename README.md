@@ -6,7 +6,7 @@ Este projeto tem o objetivo de criar uma rede social com todos os projetos desen
 
 ## 🚀 Finalizado.
 
-## 📋 Técnologias
+## 📋 Tecnologias
 HTML + CSS + JavaScript
 
 ## ✒️ Autor
